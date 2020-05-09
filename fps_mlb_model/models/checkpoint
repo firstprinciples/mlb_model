@@ -1,0 +1,2 @@
+model_checkpoint_path: "prediction_model_v0"
+all_model_checkpoint_paths: "prediction_model_v0"
